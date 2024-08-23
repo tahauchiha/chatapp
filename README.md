@@ -10,9 +10,7 @@ In this hyper-social media driven world, with apps competing for their share of 
 ## [Shinkai is deployed here](https://shinkai-chat-ckd6.vercel.app/)
 ## [Shinkai's backend is deployed here](https://shinkai-chat.onrender.com)
 
-## Created by: 
 
-### Abhinav Jha, IIT BHU, Department of Chemical Engineering (email: abhinav.jha.cd.che21@itbhu.ac.in)
 
 ## Tech Stack
 
